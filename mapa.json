@@ -1,14 +1,38 @@
 [
-{
-"key": "SNPINPASA",
-"latitude": -12.021452846280571,
-"longitude": -55.514345073135665,
-"name": "SinopMT"
-},
-{
-"key": "MTUINPASA",
-"latitude": -13.778177050272497,
-"longitude": -56.05712791985286,
-"name": "NovaMutum"
-}
+    {
+        "key": "snpinpasa",
+        "latitude": -12.021452846280571,
+        "longitude": -55.514345073135665,
+        "name": "SinopMT"
+    },
+    {
+        "key": "mtuinpasa",
+        "latitude": -13.778177050272497,
+        "longitude": -56.05712791985286,
+        "name": "NovaMutumMT"
+    },
+    {
+        "key": "drdinpasa",
+        "latitude": -22.367704162977997,
+        "longitude": -54.80141774470153,
+        "name": "DouradosMS"
+    },
+    {
+        "key": "sdlinpasa",
+        "latitude": -20.894409253689528,
+        "longitude": -54.902607692216904,
+        "name": "SIDROLANDIAMS"
+    },
+    {
+        "key": "blsinpasa",
+        "latitude": -7.468143854501667,
+        "longitude": -46.22583200129031,
+        "name": "BALSAMA"
+    },
+    {
+        "key": "spinpasa",
+        "latitude": -23.591155052846275,
+        "longitude": -46.68302459637724,
+        "name": "SAOPAULOSP"
+    }
 ]
